@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-public class simpleHTTP {
+public class SimpleHTTP {
 
     public static void main(String[] args) throws IOException {
 
